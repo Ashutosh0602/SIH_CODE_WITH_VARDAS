@@ -6,9 +6,11 @@
 
 ## Presentation Link: https://drive.google.com/file/d/1VtREAyeRaTCOhEUvxtXBxd0TmPNQ0nD0/view?usp=sharing
 
+
 <img width="1436" alt="image" src="https://github.com/user-attachments/assets/209b53ce-3a67-4218-9464-4085b0bcb7bb"> <img width="1385" alt="image" src="https://github.com/user-attachments/assets/fbf2650c-66c3-4169-9b05-3202b779b128"> <img width="1385" alt="image" src="https://github.com/user-attachments/assets/46afa573-9b97-4c38-9249-6301f637f6ec">
 
 
+https://github.com/user-attachments/assets/2b14432c-2e25-400d-823f-aea071fca964
 
 
 This project focuses on optimizing bus routes and schedules for the Delhi Transportation Corporation (DTC) using a Genetic Algorithm. By analyzing historical data (including GTFS feeds, such as stops, routes, and schedules), the system generates more efficient routes and timetables to minimize travel time, reduce traffic congestion, and improve overall service. 
@@ -28,38 +30,9 @@ The genetic algorithm iteratively selects, mutates, and evolves potential soluti
 - **Saranya Chauhan** - 2022UME4169 - [@USERNAME](https://github.com/USERNAME)
 - **Divye Bajaj** - 2022UMV7611 - [@USERNAME](https://github.com/USERNAME)
 
-# Getting Started with Create React App
+## Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository: `[git clone https://github.com/Ashutosh0602/Code-with-VARDAS.git](https://github.com/Ashutosh0602/SIH_CODE_WITH_VARDAS)`
+2. Navigate to the project directory: `cd SIH_CODE_WITH_VARDAS`
+3. Install dependencies: `npm install`
+4. Run the app: `npm start`
