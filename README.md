@@ -1,3 +1,31 @@
+# Code with VARDAS
+
+# SIH1612: Automated Bus Scheduling and Route Management System for Delhi Transport Corporation
+
+## Deployed Web/App Link: https://sih-code-with-vardas.onrender.com/
+
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/209b53ce-3a67-4218-9464-4085b0bcb7bb"> <img width="1385" alt="image" src="https://github.com/user-attachments/assets/fbf2650c-66c3-4169-9b05-3202b779b128"> <img width="1385" alt="image" src="https://github.com/user-attachments/assets/46afa573-9b97-4c38-9249-6301f637f6ec">
+
+
+
+
+This project focuses on optimizing bus routes and schedules for the Delhi Transportation Corporation (DTC) using a Genetic Algorithm. By analyzing historical data (including GTFS feeds, such as stops, routes, and schedules), the system generates more efficient routes and timetables to minimize travel time, reduce traffic congestion, and improve overall service. 
+
+The genetic algorithm iteratively selects, mutates, and evolves potential solutions to optimize bus routes and schedules, ensuring optimal coverage of high-demand areas while reducing operational costs.
+
+**Team Name:** CODE with VARDAS
+
+**Team Leader:** [@Ashutosh0602](https://github.com/Ashutosh0602)
+
+**Team Members:**
+
+- **Ashutosh Rai** - 2021UIT3116 - [@Ashutosh0602](https://github.com/Ashutosh0602)
+- **Rounak Raman** - 2021UIT3083 - [@RounakRaman](https://github.com/RounakRaman)
+- **Vatsal Chhabra** - 2021UEC2695 - [@USERNAME](https://github.com/USERNAME)
+- **Ayush Yadav** - 2021UIT3132 - [@ayyysh04](https://github.com/ayyysh04)
+- **Saranya Chauhan** - 2022UME4169 - [@USERNAME](https://github.com/USERNAME)
+- **Divye Bajaj** - 2022UMV7611 - [@USERNAME](https://github.com/USERNAME)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,41 +41,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
 
