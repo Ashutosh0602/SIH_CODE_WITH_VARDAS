@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh; /* Full viewport height for vertical centering */
+  /* height: 100vh; Full viewport height for vertical centering */
   padding: 20px;
   background-color: #f4f4f9;
   border-radius: 15px;
@@ -141,4 +141,27 @@
   .subheading {
     font-size: 1.1rem;
   }
+}
+.dropdown {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.dropdown li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.dropdown li:hover {
+  background-color: #f0f0f0;
+}
+
+.result p.total-distance {
+  font-size: 1.5em; /* Adjust the size as needed */
+  font-weight: bold; /* Optional: make it bold */
+  color: #007bff; /* Optional: change the color */
 }
